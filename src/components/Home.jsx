@@ -9,7 +9,7 @@ import { FaJava } from "react-icons/fa";
 import { SiSpringboot } from "react-icons/si";
 import { FaAngular } from "react-icons/fa6";
 import { ReactTyped } from "react-typed";
-import pic from "../../public/computer.webp"
+import pic from "../../public/pic.jpg"
 
 function Home() {
   

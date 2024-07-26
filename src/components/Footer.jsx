@@ -23,7 +23,7 @@ function Footer() {
               <p className="text-sm">
                 &copy; 2024 Your Company. All rights reserved.
               </p>
-              <p className="text-sm">Supportive Partner ❤️ Yogesh Kushwah</p>
+              <p className="text-sm">Supportive Partner ❤️ My Self</p>
             </div>
           </div>
         </div>
