@@ -26,7 +26,7 @@ function Navbar() {
         },
         {
             id: 5,
-            text: "Contacts"
+            text: "Contact"
         },
     ]
   return (

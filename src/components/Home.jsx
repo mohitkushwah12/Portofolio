@@ -1,9 +1,7 @@
 import React from 'react'
-import { FaSquareFacebook } from "react-icons/fa6";
+import { FaSquareFacebook, FaSquareGithub, FaTwitter } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa6";
-import { FaYoutube } from "react-icons/fa6";
 import { FaTelegram } from "react-icons/fa6";
-
 import { GrMysql } from "react-icons/gr";
 import { FaJava } from "react-icons/fa";
 import { SiSpringboot } from "react-icons/si";
@@ -45,8 +43,8 @@ function Home() {
           <h1 className='font-bold'>Available on</h1>
           <ul className='flex space-x-5'>
             <li>
-              <a href="https://www.facebook.com/" target='_blank'>
-            <FaSquareFacebook  className='text-2xl cursor-pointer'/> 
+              <a href="https://github.com/mohitkushwah12/" target='_blank'>
+            <FaSquareGithub  className='text-2xl cursor-pointer'/> 
             </a>
             </li>
             <li>
@@ -55,12 +53,12 @@ function Home() {
             </a>
             </li>
             <li>
-            <a href="https://www.youtube.com/" target='_blank'>
-            <FaYoutube className='text-2xl cursor-pointer'/>
+            <a href="https://x.com/__mr__mo_hit__/" target='_blank'>
+            <FaTwitter className='text-2xl cursor-pointer'/>
             </a>
             </li>
             <li>
-            <a href="https://t.me/" target='_blank'></a>
+            <a href="https://t.me/Mohit_Kush/" target='_blank'></a>
             <FaTelegram  className='text-2xl cursor-pointer'/>
             </li>
           </ul>
