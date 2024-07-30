@@ -42,8 +42,12 @@ function About() {
         <h1 className="text-green-600 font-semibold text-xl">
         Projects
         </h1>
+        <br />
         <span>
-        [E-Commerce], [Technology: Spring Boot , Html/CSS ,
+        <span className='text-red-700 font-bold text-1xl'>E-Commerce :-</span>
+        <br />
+        <br />
+        [Technology: Spring Boot , Html/CSS ,
         MySQL , Angular.]
         <br />
         <p>
@@ -60,7 +64,30 @@ function About() {
          login/logout experience.
         </p>
         <br />
-        [E-Book Management System], [Technology: Spring Boot, JSP, Mysql]
+        <span className='text-red-700 font-bold text-1xl'>Hospital Management System :-</span>
+        <br />
+        <br />
+        [Technology: Spring Boot , Html/CSS ,
+          MySQL , Angular.]
+        <br />
+        <p>
+        • Developed Hospital Management System using Spring
+        Boot, Html/CSS, Angular and MySQL.
+        <br /> 
+        • Designed a user-centric dashboard for efficient patients
+        management.
+        <br />
+        • Implemented robust data storage with Spring Boot for
+        seamless retrieval.
+        <br />
+        • Ensured secure session management for a smooth
+          login/logout experience. 
+        </p>
+        <br />
+        <span className='text-red-700 font-bold text-1xl'>E-Book Management System :-</span>
+        <br />
+        <br />
+        [Technology: Spring Boot, JSP, Mysql]
         <br />
         <p>
         • Independently developed "Book Maid" web app using JSP,

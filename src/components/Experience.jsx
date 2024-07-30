@@ -7,6 +7,7 @@ import oracle from "../../public/oracle.png";
 import spring from "../../public/spring.png";
 import springBoot from "../../public/springBoot.jpg";
 import mysql from "../../public/mysql.png";
+import angular from "../../public/Angular.png";
 
 function Experience() {
   const cardItem = [
@@ -44,6 +45,11 @@ function Experience() {
       id: 7,
       logo: springBoot,
       name: "Spring Boot",
+    },
+    {
+      id: 8,
+      logo: angular,
+      name: "Angular",
     },
   ];
   return (
